@@ -1,0 +1,517 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.text-orange {
+  background: linear-gradient(to right, rgb(232, 87, 12), rgb(200, 68, 13));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+.text-solid-orange
+{
+    color: RGB(234, 88, 11) !important;
+}
+.gradient-orange-text {
+  background: linear-gradient(to right, rgb(127, 45, 18), rgb(231, 86, 13));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-orange-text-light {
+  background: linear-gradient(to right, rgb(250, 142, 57), rgb(235, 90, 15));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gradient-custom {
+  background: linear-gradient(to right, rgb(253, 240, 236), rgb(255, 255, 255));
+}
+
+.orange-text {
+  color: RGB(234, 88, 11) !important;
+}
+
+.orange-bg {
+  background-color: RGB(190, 71, 12);
+}
+
+.text-brown {
+  color: rgb(122, 44, 18);
+}
+
+.texy-navy {
+  color: RGB(30, 41, 56);
+}
+
+.bg-orange {
+  background: linear-gradient(to right, rgb(250, 142, 57), rgb(238, 103, 27));
+}
+
+.nav-link.active {
+  color: #ea580c !important; 
+  font-weight: 600; 
+  border-bottom: 2px solid #ea580c;  
+}
+
+.bg-blue {
+  background: RGB(43, 127, 255) !important;
+}
+.bg-blue-light {
+  background: RGB(231, 241, 255) !important;
+}
+.bg-blue-light-one {
+  background: RGB(219, 234, 255);
+}
+.text-blue {
+  color: RGB(25, 60, 185);
+}
+
+.bg-black {
+  background: RGB(0, 0, 0) !important;
+}
+.bg-black-light {
+  background: RGB(247, 248, 250) !important;
+}
+.bg-black-light-one {
+  background: RGB(243, 244, 246);
+}
+.text-black {
+  color: RGB(42, 53, 67);
+}
+
+.bg-green {
+  background: RGB(0, 201, 81) !important;
+}
+.bg-green-light {
+  background: RGB(233, 252, 239) !important;
+}
+.bg-green-light-one {
+  background: RGB(220, 252, 230);
+}
+.text-green {
+  color: RGB(1, 102, 48);
+}
+
+.bg-orange5 {
+  background: RGB(255, 105, 0) !important;
+}
+.bg-orange5-light {
+  background: RGB(255, 243, 227) !important;
+}
+.bg-orange5-light-one {
+  background: RGB(255, 237, 212);
+}
+.text-orange5 {
+  color: RGB(167, 62, 24);
+}
+
+.bg-babyBlue {
+  background: RGB(0, 184, 219) !important;
+}
+.bg-babyBlue-light {
+  background: RGB(223, 253, 254) !important;
+}
+.bg-babyBlue-light-one {
+  background: RGB(206, 250, 254);
+}
+.text-babyBlue {
+  color: RGB(1, 94, 120);
+}
+
+.bg-vilot {
+  background: RGB(173, 70, 255) !important;
+}
+.bg-vilot-light {
+  background: RGB(248, 241, 255) !important;
+}
+.bg-vilot-light-one {
+  background: RGB(243, 231, 255);
+}
+.text-vilot {
+  color: RGB(110, 16, 177);
+}
+
+.bg-red {
+  background: RGB(231, 0, 11) !important;
+}
+.bg-red-light {
+  background: RGB(255, 236, 237) !important;
+}
+.bg-red-light-one {
+  background: RGB(255, 226, 226);
+}
+.text-red {
+  color: RGB(168, 37, 41);
+}
+
+.bg-Teal {
+  background: RGB(0, 150, 137) !important;
+}
+.bg-Teal-light {
+  background: RGB(228, 253, 247) !important;
+}
+.bg-Teal-light-one {
+  background: RGB(203, 251, 242);
+}
+.text-Teal {
+  color: RGB(26, 110, 104);
+}
+
+.bg-yellow {
+  background: RGB(208, 136, 0) !important;
+}
+.bg-yellow-light {
+  background: RGB(254, 251, 219) !important;
+}
+.bg-yellow-light-one {
+  background: RGB(255, 249, 194);
+}
+.text-yellow {
+  color: RGB(138, 77, 0);
+}
+
+.bg-grey {
+  background: RGB(54, 65, 83) !important;
+}
+.bg-grey-light {
+  background: RGB(247, 248, 249) !important;
+}
+.bg-grey-light-one {
+  background: RGB(243, 244, 246);
+}
+.text-grey {
+  color: RGB(40, 51, 66);
+}
+
+.bg-orange-light {
+  background: #ffe8d9 !important;
+}
+.bg-orange-soft {
+  background: rgba(255, 102, 0, 0.08);
+}
+
+.btn-orange {
+  background: linear-gradient(135deg, rgb(255, 100, 0), rgb(252, 56, 48));
+  color: #fff;
+  transition: all 0.3s ease;  
+}
+
+.btn-orange:hover {
+  transform: translateY(-8%);
+  color: #fff;
+  box-shadow: 0 12px 20px rgb(255, 100, 0 , 0.5);
+}
+
+.watchDemobtn:hover {
+  color: rgb(234, 88, 11);
+  border-color: rgb(234, 88, 11) !important;
+}
+
+.nav-link:hover {
+  color: RGB(226, 84, 13) !important;      
+  text-decoration: none;
+  transition: all 0.2s ease;  
+}
+
+.mega-menu {
+  max-width: 1100px;
+  width: 100%;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  top: 100%;
+  transition: all 0.25s ease-in-out;
+}
+
+@media (max-width: 992px) {
+  .mega-menu {
+    position: static !important; 
+    max-height: 350px;
+    overflow-y: auto;
+    left: 0 !important;
+    transform: none !important;
+    width: 100% !important;
+    box-shadow: none !important;
+    margin: 0;
+    padding: 1.2rem;
+  }
+}
+
+.feature-box {
+  transition: all 0.3s ease;
+}
+
+.feature-box .icon {
+  transition: all 0.3s ease;
+}
+
+.feature-box h6 {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.feature-box:hover {
+  background-color: RGB(255, 248, 239);
+}
+
+.feature-box:hover .icon {
+  transform: scale(1.1);
+}
+
+.feature-box:hover h6 {
+  color: rgb(231, 86, 13);
+}
+
+@media (max-width: 991px) {
+  .auth-links a {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    border: 1px solid RGB(230, 231, 235);
+    border-radius: 20px;
+    padding: 8px;
+    margin-top: 20px;
+  }
+  .auth-links button {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+}
+
+.hero-section {
+  background: linear-gradient(180deg, #fff8f2, white);
+}
+
+.text-orange {
+  color: #e85a0d;
+}
+
+.bg-orange {
+  background: #e85a0d !important;
+}
+
+.bg-orange-light {
+  background: #f6c3ab !important;
+}
+
+.btn-orange {
+  background: linear-gradient(135deg, #e85a0d, #c8470d);
+  color: white;
+  border: none;
+}
+
+.tilted-square {
+  width: 450px;
+  height: 450px;
+  transform: rotate(3deg);
+  z-index: 1;
+}
+
+.image-wrapper {
+  width: 450px;
+  z-index: 2;
+  position: relative;
+}
+
+.floating-small-icon {
+  width: 80px;
+  height: 80px;
+  top: -20px;
+  right: -20px;
+  z-index: 3;
+}
+
+.bottom-icon-square {
+  width: 70px;
+  height: 70px;
+  bottom: -20px;
+  left: -20px;
+  z-index: 3;
+}
+
+@media (max-width: 576px) {
+  .image-wrapper {
+    width: 100%;
+  }
+
+  .floating-small-icon {
+    width: 60px;
+    height: 60px;
+    top: -15px;
+    right: -15px;
+  }
+
+  .bottom-icon-square {
+    width: 50px;
+    height: 50px;
+    bottom: -15px;
+    left: -15px;
+  }
+}
+
+.service-card {
+  background: #fff;
+  border-radius: 18px;
+  transition: 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.05);
+}
+
+.icon-box {
+  width: 65px;
+  height: 65px;
+  transition: 0.3s ease;
+}
+
+.service-card:hover .icon-box {
+  transform: scale(1.1);
+}
+
+.fa-arrow-right-long {
+  transition: 0.3s ease;
+}
+
+.service-card:hover .fa-arrow-right-long {
+  transform: translateX(5px)
+}
+
+.btn-orange:hover .fa-arrow-right-long {
+  transform: translateX(5px)
+}
+
+.learn-more {
+  color: #ea580c;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tab-btn {
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid white;
+  transition: 0.2s;
+}
+
+.tab-btn.active {
+  color: #ea580b !important;
+  border-bottom: 2px solid #ea580b;
+}
+
+.tab-btn:hover {
+  color: #ea580b;
+  cursor: pointer;
+  border-bottom: 2px solid #ea580b;
+}
+
+.tech-card {
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.05);
+  transition: 0.2s;
+}
+
+.tech-card:hover {
+  transform: translateY(-5px);
+}
+
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #ddd;
+  transition: all 0.3s ease-in-out;
+  border: 2px solid transparent;  
+}
+
+.carousel-indicators [data-bs-target]:hover {
+  width: 50px;          
+  border-radius: 10px;  
+}
+
+.carousel-indicators .active {
+  background-color: #ff7a00;
+}
+
+
+
+.faq-section {
+  background: #fff;
+}
+
+.faq-badge {
+  background: #ffe8df;
+  color: #d24f08;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.faq-card {
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid #eee;
+  transition: 0.2s;
+}
+
+.faq-card:hover {
+  border: 1px solid RGB(234, 88, 11 , 0.3);
+}
+
+.accordion-button {
+  font-size: 20px;
+  font-weight: 600;
+  color: #803000;
+  background: #fff;
+  padding: 20px;
+}
+
+.accordion-button:not(.collapsed) {
+  background: RGB(255, 255, 255);
+  color: #803000;
+  box-shadow: none;
+}
+
+.accordion-item .accordion-button {
+  box-shadow: none !important;
+}
+
+.transform-input {
+  transition: all 0.1s ease;
+}
+
+.transform-input:focus {
+  border: 2px solid #ea580b !important;
+  background-color: #ffffff !important;
+  box-shadow: none !important;
+}
+
+
+.budget-btn.active {
+  border-color: #ea580b !important;
+  color: #ea580b !important;
+  background-color: RGB(254, 247, 243);
+}
+
+.form-check-input:checked {
+  background-color: #ea580b !important;
+  border-color: #ea580b !important;
+  box-shadow: none !important;
+}
+
+.form-check-input:focus {
+  box-shadow: none !important;
+}
+
+
+.footer-icon {
+  transition: 0.3s ease;
+}
+
+.footer-icon:hover {
+  background-color: RGB(232, 90, 13) !important;
+  color: white !important;
+}

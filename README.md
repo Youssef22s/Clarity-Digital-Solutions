@@ -1,1 +1,2 @@
 # Clarity-Digital-Solutions
+Clarity is a modern, fully responsive landing page built for showcasing tech and software services in a clean and professional way. It features a sleek UI/UX design, smooth interactions, and dynamic content sections for different technology categories. The project is developed using HTML, Bootstrap 5, and vanilla JavaScript, focusing on performance, simplicity, and clean code structure. Clarity is ideal for developers, freelancers, or tech companies looking to present their services with a polished and contemporary look.
